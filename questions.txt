@@ -1,0 +1,54 @@
+1
+Laura added two three-digit positive integers. All
+six digits in these numbers are different. Laura's 
+sum is a three-digit number S. What is the smallest
+possible value for the sum of the digits of S?
+A. 4
+B. 1
+C. 5
+A
+2
+All three vertices of triangle ABC are lying on the 
+parabola defined by y=x^2, with A at the origin and 
+line BC parallel to the X-axis. The area of triangle
+is 64. What is the length of BC?
+A. 8
+B. 6
+C. 10
+A
+3
+Two different numbers are selected at random from 
+(1, 2, 3, 4, 5) and multiplied together. What is 
+the probability that the product is even?
+A. 0.7
+B. 0.3
+C. 0.6
+A
+4
+A unit of blood expires after 10! seconds. 
+Yasin donates a unit of blood at noon of January 1. 
+On what day does his unit of blood expire?
+A. February 12
+B. February 11
+C. January 22
+A
+5
+How many ways can a student schedule 3 mathematics 
+courses--algebra, geometry, and number theory--in
+a 6-period day if no two mathematics courses can be
+taken in consecutive periods?(What courses the student
+takes during the other 3 periods is of no concern here)
+A. 24
+B. 18
+C. 12
+A
+6
+At a gathering of 30 people, there are 20 people who 
+all know each other and 10 people who know no one. People
+who know each other hug, and people who do not know each
+other shake hands. How many handshakes occur?
+A. 245
+B. 240
+C. 480
+A
+END
